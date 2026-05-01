@@ -1,5 +1,8 @@
-# Implementation-of-Community-Energy-by-Combining-Social-Network-Analysis-and-Co-creation
+# Networked Co-creation
 These are the anonymous data files and R scripts used for a research project that promoted co-creation through network methods with two active CEIs. The doi to the publicationwill be added at a later point
+
+
+Bringing “Bottom Up” Citizen Engagement into the Implementation of Community Energy by Combining Social Network Analysis and Co-creation.
 
 Here the abstract: 
 European community energy initiatives (CEIs) struggle with low participation numbers, undermining sustainability goals and exacerbating socioeconomic divides. While policy makers granted subsidies and CEI literature boomed, research indicates that translating findings into practice remains difficult. This can be ascribed to a lack of deep stakeholder engagement in policy and research and the underutilization of social structural characteristics in CEI implementation. Both relate to the neglect of modern conceptions of governance as regulation of social behavior through citizen networks. Moreover, the lack of engagement leaves stakeholders with little agency and contradicts the proposed European “energy citizen” framework.
